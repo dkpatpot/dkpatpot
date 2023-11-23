@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-I am a fourth-year Bachelor's degree student at Kasetsart university, Faculty of Computer Science.
+I am a fourth-year Bachelor's degree student at Kasetsart University, Faculty of Computer Science.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thanaphat2142@gmail.com](mailto:thanaphat2142@gmail.com)
-* 🚀  I'm currently working on [PCCTH](http://www.pccth.com/)
+* 🚀  I'm currently working as a Full-stack developer with outsource contract at [PCCTH](http://www.pccth.com/)
 * 🧠  I'm learning Node.js, React.js and The Complete 2023 Web Development Bootcamp courses.
 
 ### Skills
