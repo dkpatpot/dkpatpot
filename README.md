@@ -9,7 +9,7 @@ I am a fourth-year Bachelor's degree student at Kasetsart University, Faculty of
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thanaphat2142@gmail.com](mailto:thanaphat2142@gmail.com)
 * 🚀  I'm currently working as a Full-stack developer with outsource contract at [PCCTH](http://www.pccth.com/)
-* 🧠  I'm learning Node.js, React.js and The Complete 2023 Web Development Bootcamp courses.
+* 🧠  I'm learning Node.js, React.js and The Complete 2023 Web Development Bootcamp courses at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Skills
 
