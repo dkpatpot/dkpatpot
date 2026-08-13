@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanaphat Wannalobon
 ============================================================================================================================================
 
-Full-Stack Web Developer
+Software engineer
 ------------------------
 
-I am a fourth-year Bachelor's degree student at Kasetsart University, Faculty of Computer Science.
+I’m a Software Engineer who graduated with First Class Honors in Computer Science from Kasetsart University. I have hands-on experience in full-stack web and mobile development, working with Java Spring Boot, React, Angular, and React Native. I’ve contributed to production systems for organizations including the Stock Exchange of Thailand and Siam Commercial Bank, and I’m also passionate about blockchain development.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Newzealand, queenstown
 * ✉️  You can contact me at [thanaphat2142@gmail.com](mailto:thanaphat2142@gmail.com)
-* 🚀  I'm currently working as a Full-stack developer with outsource contract at [PCCTH](http://www.pccth.com/)
-* 🧠  I'm learning on The Complete 2023 Web Development Bootcamp courses at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/), The Complete JavaScript Course 2024: From Zero to Expert! at [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) and 50 Projects In 50 Days - HTML, CSS & JavaScript [Udemy](https://www.udemy.com/course/50-projects-50-days/).
+* 🚀  I'm currently open to work as a Software engineer
 
 ### Skills
 
