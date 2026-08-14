@@ -9,6 +9,33 @@ I’m a Software Engineer who graduated with First Class Honors in Computer Scie
 * 🌍  I'm based in Newzealand, queenstown
 * ✉️  You can contact me at [thanaphat2142@gmail.com](mailto:thanaphat2142@gmail.com)
 * 🚀  I'm currently open to work as a Software engineer
+### Work experiences
+Professional Computer Co., LTD. — Full-Stack Developer Intern (June 2023 - September 2023)
+
+Built a full CRUD web application using Angular and Bootstrap for the frontend
+Developed and integrated RESTful APIs with Java Spring Boot, connecting backend services to the Angular interface
+Implemented reporting features by integrating Java Spring Boot APIs with Jasper Report
+Gained hands-on UX/UI design experience using Figma for original interface designs
+
+Professional Computer Co., LTD. — Full-Stack Developer (October 2023 - March 2024)
+
+Led the redesign and development of a website for Thailand's Revenue Department
+Built the frontend using Angular with TypeScript, focusing on usability and responsive design
+Developed backend services with Java Spring Boot to support government-facing web applications
+
+Siam Commercial Bank Public Co., LTD. — Software Engineer (April 2024 - June 2025)
+
+Developed and maintained SCB's corporate website, ensuring performance, scalability, and reliability
+Built and integrated backend APIs using Java Spring Boot to support core web functionalities
+Authored technical specifications and detailed documentation for API development processes, enabling smooth collaboration across teams
+Worked within an Agile framework, participating in sprint planning and iterative delivery cycles
+
+Orcsoft Co., Ltd. , Stock Exchange of Thailand — Software Engineer (June 2025 - May 2026)
+
+Developed and maintained applications for the Stock Exchange of Thailand using Java Spring Boot for backend services
+Built mobile applications using React Native and web interfaces using React
+Provided ongoing support and maintenance for services, websites, and applications running in production, ensuring stability and reliability
+Collaborated across teams to troubleshoot and resolve production issues in a timely manner
 
 ### Skills
 
